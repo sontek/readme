@@ -1,5 +1,5 @@
 # Manager README
-WHy hello there! If we’ve worked together before, or this is your first time
+Why hello there! If we’ve worked together before, or this is your first time
 meeting me, the purpose of this document is to let you know who I am, how I
 work, and what I value.
 
