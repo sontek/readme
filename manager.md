@@ -105,10 +105,10 @@ have concerns about. Once we commit, we should attempt to approach the project
 with positive energy (and that could make all the difference).
 
 ## Working with me
-My job within the team is to provide clarity, direction, and guidance. It’s my
-responsibility to let the team and our stakeholders know what we’re working on
-and why our projects are essential. I’m on the hook for our outcomes, but I
-expect the team to work with me to make sure we’re making the right decisions.
+My job within the team is to provide clarity, direction, and guidance. It is 
+not my responsibility to decide what is most important to work on or how it is
+done.  I will communicate with our customers and stakeholders to make sure our
+ideas match their desires.
 
 ### 1:1
 We will have a 1:1 every week for at least 30 minutes. These meetings are for
