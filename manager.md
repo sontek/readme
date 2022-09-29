@@ -9,8 +9,8 @@ First off, if you'd like to find me around the internet:
 - LinkedIn: https://linkedin.com/in/sontek
 - Website: https://sontek.net/
 
-I've been a software engineer and SRE since 2004 and moved into leading engineers
-in 2015.
+I've been a software engineer and SRE since 2005 and moved into leading engineers
+in 2015 as both a manager and start-up founder.
 
 ## Working Hours
 - *Timezone*: https://time.is/AST
@@ -20,7 +20,7 @@ Although I'm very consistent on starting my workday between 7 and 8, I do enjoy
 flexing my hours.  I find that I lose my energy by the end of the day so
 you'll usually see me leave early and then return later in the night to finish.
 
-*NO GO ZONE*: 6pm - 9pm.  You'll see me often working 9pm-11pm but I reserve
+*NO GO ZONE*: 6pm - 9pm.  You'll see me often working in the evening but I reserve
 6pm-9pm for dinner and time with my family. I do not accept meetings during this
 time.
 
@@ -28,7 +28,8 @@ time.
 # About me (personally)
 I will answer to John or sontek. I'm originally from Michigan, USA but I live in
 Luquillo Puerto Rico on an off-grid 3 acres where I have a small fruit orchard,
-garden, chickens, ducks, and a turkey.
+garden, chickens, ducks, and turkeys.  I'm a certified welder in case you need
+any metal attached to other metal.
 
 I have two sons, Graham Wolfgang (2011) and Morgan Hawke (2013).
 
@@ -61,10 +62,10 @@ to bounce some ideas around but I'm here to serve you as a manager and build out
 processes that work for the team not against them.
 
 ### People
-I value the people on the team more than I value technology. I am protective of
-the people on my team and believe in investing in their continued growth. I
-care about the people that I work with and want to help them become better at
-what they do.
+I value the people on the team more than the technology.  Programming is just
+typing and anyone can learn and get better at that.  How you collaborate and
+the attitude you bring towards helping the people around you grow and improve
+is more valuable.
 
 
 ### Communication
@@ -82,14 +83,15 @@ and think through the issue and how I would recommend solving it.
 
 
 ### Celebrate wins, celebrate losses
-I believe in creating environments where we are not afraid to take chances. We
-will celebrate the wins and learn from the losses. The best wins are learned
-from previous losses.
+I believe in creating environments where we are not afraid to take chances and
+run experiments. Not every task we take on needs to be considered a win. We
+will celebrate the wins and learn from the losses. The biggest wins are usually
+learned from previous losses.
 
 ### (Over) Communicate
 The stronger the communication, the stronger the team. We are running at hard,
 big challenges with cross-functional teams. Clear, consistent communication can
-solve many problems (read: *over-communicate*). When in doubt, communicate out.
+solve many problems (read: *over-communicate*).
 
 ### Attitude matters
 Sometimes the difference between a project succeeding vs. failing is the
@@ -133,29 +135,32 @@ spend time to work together, solve problems as group and raise issues.
 I have taken the Birkman assessment as you can view it [here](birkman.pdf)
 
 # What do I expect from my team?
-Know who their customer is and what they want. Whether it’s a software
-development or operations team, we all have stakeholders counting on us. My
-team should be familiar with their customers’ pain and make all decisions with
-the customer in mind.
+The team should understand their customer and work towards solving problems they
+have.
 
-- *Support one another*: Someone who helps colleagues find success is always
-  more valuable to me than a lone wolf. Team cohesion is essential to me, and
-  I believe the whole team succeeds when working together. Your teammates'
-  success is a direct reflection of your success.
-- *Work the problem*: This is especially true in an emergency, but I expect
-  those around me to try to find ways to solve issues that arise. I don’t
-  expect everyone to know everything, but I do expect team members to find
-  answers to questions. If you can’t solve 100% of a problem, just find a way
-  to make things 1% better.
-- *Tell me things*: Tell me what’s going wrong, and tell me what’s going right.
-  Tell me about the opportunities you think we’re missing. Tell me about where
-  things are unclear. I am counting on you to advise me and help me make good
-  decisions. I want everyone to be successful, including you. Most importantly,
-  if something is urgent, tell me so. Nobody should ever have to sit on
-  something important.
+## Teams do:
+- Take care of each other, and hold each other accountable. Someone who helps
+  colleagues succeed is always more valuable than a lone wolf. But being a hero
+  and stretching yourself isn't helpful either.  Letting people know where they
+  can improve is just as important as celebrating the great things they are
+  accomplishing.
 
-  Don’t let me get surprised. Along with the importance of talking to me, don’t
-  put me in an uncomfortable position because we haven’t talked about something.
-  You can bring me bad news, but sooner is better. This is true as well for
-  good news. The more you tell me about the good work you’ve done, the better
-  I can evangelize your successes.
+- Continuously learn and grow. I don’t expect everyone to know everything, but
+  I do expect you to attempt to understand problems and find answers. If you
+  can’t solve a problem, having well thought out investigation is good
+  enough. Digging into hard problems is how to learn and grow!
+
+- *Default to action*: Take control and own your own destiny. Don't wait for
+  direction if you have a good idea.
+
+
+## Teams don't:
+
+- *Blame others*: Humans make mistakes. But when we frame mistakes as learning
+  opportunities it generates a more productive converation. Praise and public
+  and coach in private. You should feel comfortable telling people when they
+  could've done something differently without it being personal.
+
+- *Sulk in silence*: I believe in transparency.  Bring your concerns to me! You
+  may not be the only one feeling the way you do.  The best way to address
+  problems is to discuss them.
