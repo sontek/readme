@@ -25,7 +25,7 @@ you'll usually see me leave early and then return later in the night to finish.
 time.
 
 
-# About me (personally)
+## About me (personally)
 I will answer to John or sontek. I'm originally from Michigan, USA but I live in
 Luquillo Puerto Rico on an off-grid 3 acres where I have a small fruit orchard,
 garden, chickens, ducks, and turkeys.  I'm a certified welder in case you need
@@ -45,7 +45,7 @@ I consume a decent amount of beer and coffee and currently working on growing
 my own hops, barley, and coffee so I can start making it all myself.
 
 
-# About me (professionally)
+## About me (professionally)
 As an elder millenial I started out running servers on-prem or in a datacenter
 and coming up with cute naming conventions for my little pets. My journey so
 far as been:
@@ -57,7 +57,7 @@ my time at massively scale unicorns (SurveyMonkey, Zapier) as well as running
 my own startup (EventRay) and everything in between. I love building systems
 and teams!
 
-# Guiding Principles
+## Guiding Principles
 I still love to dig deep on the tech side and can be a rubberduck if you need
 to bounce some ideas around but I'm here to serve you as a manager and build out
 processes that work for the team not against them.
@@ -104,13 +104,13 @@ attitude we use when we approach that project. Provide feedback on areas you
 have concerns about. Once we commit, we should attempt to approach the project
 with positive energy (and that could make all the difference).
 
-# Working with me
+## Working with me
 My job within the team is to provide clarity, direction, and guidance. It’s my
 responsibility to let the team and our stakeholders know what we’re working on
 and why our projects are essential. I’m on the hook for our outcomes, but I
 expect the team to work with me to make sure we’re making the right decisions.
 
-## 1:1
+### 1:1
 We will have a 1:1 every week for at least 30 minutes. These meetings are for
 you and I will not bring much if any agenda to them. These are *not* status
 meetings, I'd rather discuss status async. The 1:1 is for:
@@ -123,7 +123,7 @@ meetings, I'd rather discuss status async. The 1:1 is for:
 
 Do not wait for the 1:1 if you have something urgent. Slack me immediately!
 
-## Team meetings
+### Team meetings
 As stated before I do not believe that sync meetings are the most productive
 use of a team's time and especially not for status updates so I prefer to keep
 "stand-up" async and keep team meetings focused on bigger picture execution.
@@ -136,14 +136,14 @@ use of a team's time and especially not for status updates so I prefer to keep
 These are the most important meetings of the week and this is where we will
 spend time to work together, solve problems as group and raise issues.
 
-## If you like personality surveys...
+### If you like personality surveys...
 I have taken the Birkman assessment as you can view it [here](birkman.pdf)
 
-# What do I expect from my team?
+## What do I expect from my team?
 The team should understand their customer and work towards solving problems they
 have.
 
-## Teams do:
+### Teams do:
 - Take care of each other, and hold each other accountable. Someone who helps
   colleagues succeed is always more valuable than a lone wolf. But being a hero
   and stretching yourself isn't helpful either.  Letting people know where they
@@ -159,7 +159,7 @@ have.
   direction if you have a good idea.
 
 
-## Teams don't:
+### Teams don't:
 
 - *Blame others*: Humans make mistakes. But when we frame mistakes as learning
   opportunities it generates a more productive converation. Praise and public
