@@ -88,10 +88,15 @@ run experiments. Not every task we take on needs to be considered a win. We
 will celebrate the wins and learn from the losses. The biggest wins are usually
 learned from previous losses.
 
-### (Over) Communicate
+### Over Communicate
 The stronger the communication, the stronger the team. We are running at hard,
 big challenges with cross-functional teams. Clear, consistent communication can
-solve many problems (read: *over-communicate*).
+solve many problems.
+
+Communication is important on the tech side around what you are planning and how
+you want to solve it but also at a personal level. If you are flexing your hours
+and taking off early, communicate it!  Everyone works better together when they
+know what to expect.
 
 ### Attitude matters
 Sometimes the difference between a project succeeding vs. failing is the
