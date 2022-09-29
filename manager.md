@@ -54,7 +54,8 @@ On-prem -> OpenStack -> Mesos -> Kubernetes
 
 I'm a fan of Python, GoLang, and proper obsverability of the cloud.  I've done
 my time at massively scale unicorns (SurveyMonkey, Zapier) as well as running
-my own startup (EventRay) and love building systems and teams!
+my own startup (EventRay) and everything in between. I love building systems
+and teams!
 
 # Guiding Principles
 I still love to dig deep on the tech side and can be a rubberduck if you need
