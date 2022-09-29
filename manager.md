@@ -78,9 +78,8 @@ and think through the issue and how I would recommend solving it.
   private communication to a minimum.
 - I prefer to receive direct and blunt feedback. I'll give feedback however you
   like to receive it. I believe we do better when we’re invested in one
-  another’s success and when we share feedback openly. I care about your success
-  and will give you feedback to help you get better. I expect you to do the same
-  for me.
+  another’s success and when we share feedback openly. It is always a good time
+  to provide feedback, you should give it early and often!
 
 
 ### Celebrate wins, celebrate losses
